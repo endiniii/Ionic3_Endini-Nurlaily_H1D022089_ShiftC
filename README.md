@@ -48,8 +48,8 @@
 ![Tampilan Tambah Mahasiswa](https://raw.githubusercontent.com/endiniii/Ionic3_Endini-Nurlaily_H1D022089_ShiftC/main/tambah_mahasiswa.png) 
 
 # c. Gambar tampilan Edit Data Makasiswa
-![Tampilan Edit Data](https://raw.githubusercontent.com/endiniii/Ionic3_Endini-Nurlaily_H1D022089_ShiftC/main/edit_mahasiswapng)
+![Tampilan Edit Data](https://raw.githubusercontent.com/endiniii/Ionic3_Endini-Nurlaily_H1D022089_ShiftC/main/edit_mahasiswa.png)
 
-# b. Gambar tampilan Hapus Data Mahasiswa
-![Tampilan Hapus Data Mahasiswa](https://raw.githubusercontent.com/endiniii/Ionic3_Endini-Nurlaily_H1D022089_ShiftC/main/konfirmasia_hapus.png) 
+# d. Gambar tampilan Hapus Data Mahasiswa
+![Tampilan Hapus Data Mahasiswa](https://raw.githubusercontent.com/endiniii/Ionic3_Endini-Nurlaily_H1D022089_ShiftC/main/konfirmasi_hapus.png) 
 
